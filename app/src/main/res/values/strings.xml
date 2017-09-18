@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FretX</string>
+    <string name="disconnected_status">Disconnected</string>
+    <string name="connected_status">Connected</string>
+    <string name="scanning_status">Scanning...</string>
+    <string name="disconnect_action">Disconnect</string>
+    <string name="connect_action">Connect</string>
+    <string name="switch_on">Lights ON</string>
+    <string name="switch_off">Lights OFF</string>
+</resources>
